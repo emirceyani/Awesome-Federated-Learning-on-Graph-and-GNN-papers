@@ -8,13 +8,14 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 4. \[Arxiv 2021\] **Federated Myopic Community Detection with One-shot Communication.** [paper](https://arxiv.org/pdf/2106.07255)
 5. \[ICCAD 2021\] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper.** [paper](https://doi.org/10.1109/ICCAD51958.2021.9643440)
 6. \[ICML 2023\] **Personalized Subgraph Federated Learning.** [paper](https://arxiv.org/abs/2206.10206)
+7. [SIAM-SDM 2025] **FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling** [paper](https://arxiv.org/abs/2501.12592) [code coming soon]
 
 ## Federated Learning on Graph Neural Networks
 
 ### Survey Papers
 1. \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
 2. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
-2. \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
+3. \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
 
 
 ### Algorithm Papers
@@ -40,6 +41,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 20. [CISS 2022] **Decentralized Graph Federated Multitask Learning for Streaming Data** [paper](https://doi.org/10.1109/CISS53076.2022.9751160)
 21. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
 22. [NeurIPS 2023] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://arxiv.org/abs/2201.12433) [code](https://github.com/yh-yao/FedGCN)
+23. [SIAM-SDM 2025] **FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling** [paper](https://arxiv.org/abs/2501.12592) [code coming soon]
 
 ## Federated Learning on Knowledge Graph
 1. \[IJCKG 2021\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://dl.acm.org/doi/abs/10.1145/3502223.3502233) [code](https://github.com/AnselCmy/FedE)
